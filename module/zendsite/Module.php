@@ -2,7 +2,7 @@
 namespace zendsite;
 
 /**
- *
+ *huihohom
  */
 class Module
 {
